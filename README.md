@@ -1,3 +1,3 @@
 # react-redux-project
 
-[surge sh :]( redux-prj-artefilex.surge.sh)
+[surge sh :]( http://redux-prj-artefilex.surge.sh/)
